@@ -1,13 +1,13 @@
 
 @font-face {
 	font-family: MarckScript;
-	src: url(/fonts/MarckScript-Regular.ttf);
+	src: url(../fonts/MarckScript-Regular.ttf);
 }
 /* header */
 body {
    
    
-    background: linear-gradient(90deg, #ffffff, #ffecee);
+    background-color:  #ede7e7;
 
 
 /* background: linear-gradient(124deg, rgba(196,192,255,1) 0%, rgba(240,239,254,1) 48%, rgba(255,255,255,1) 80%); */
@@ -54,7 +54,6 @@ header {
     --bg-color-one: #9a55b1;
     --bg-color-two: #5ea8a7;
     --bg-color-three: #f0effe;
-    --bg-color-four: #ede7e7;
 }
 
 .bg-one {
