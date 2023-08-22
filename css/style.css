@@ -54,13 +54,15 @@ header {
     --bg-color-one: #9a55b1;
     --bg-color-two: #5ea8a7;
     --bg-color-three: #f0effe;
+	--bg-color-four: #ede7e7;
 }
 
 .bg-one {
     background-color: var(--bg-color-one);
 }
 
-
+.bg-color-four {
+	 background-color: var(--bg-color-four);
 .bg-one {
     background-color: var(--bg-color-one);
 }
