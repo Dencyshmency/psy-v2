@@ -1,7 +1,7 @@
 
 @font-face {
 	font-family: MarckScript;
-	src: url(../fonts/MarckScript-Regular.ttf);
+	src: url(/fonts/MarckScript-Regular.ttf);
 }
 /* header */
 body {
@@ -1244,7 +1244,7 @@ height: calc(100% - 110px);
         border-radius: 0 0 10px 10px;
         top: 100%;
         right: 0;
-        z-index: 0;
+        z-index: 10;
         transition: 0.3s linear;
         visibility: hidden;
         opacity: 0;
